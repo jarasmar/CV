@@ -2,6 +2,8 @@
 
 <h1 align="center">JARA SANTAMARIA MARTINEZ</h1>
 
+<br>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jarasmar/">
     <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
