@@ -97,12 +97,14 @@ You can see my progress through this intensive course in this repository: [Track
 
 ## EXPERIENCE
 
+_Use the 'Check Full Experience' dropdown menus to see all the specific roles, places and dates of employment I have developed in each catergory._
+
 ### Makeup, Hair and Costume
 
 Summary and skills from this field
 
 <details>
-  <summary>Check Full List of Experience</summary>
+  <summary>Check Full Experience</summary>
   <ul>
     <li>Makeup Artist and Hair Stylist in Blow LTD - London (04/2019 - 11/2019)</li>
     <li>Head Makeup, Hair and Costume Artist in a Film with Chromatiques Productions - Alicante (09/2018 - 11/2018)</li> 
@@ -121,7 +123,7 @@ Summary and skills from this field
 Summary and skills from this field
 
 <details>
-  <summary>Check Full List of Experience</summary>
+  <summary>Check Full Experience</summary>
   <ul>
     <li>Asssistant Manager, Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2019 - 01/2020)</li>
     <li>Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2018 - 01/2019</li>
@@ -135,7 +137,7 @@ Summary and skills from this field
 Summary and skills from this field
 
 <details>
-  <summary>Check Full List of Experience</summary>
+  <summary>Check Full Experience</summary>
   <ul>
     <li>Beauty Consultant and Shop Assistant in Douglas - Madrid (04/2017 - 06/2018)</li> 
     <li>Shop Assistant in Levadura Madre - Madrid (12/2015 - 09/2016)</li>
@@ -149,30 +151,38 @@ Summary and skills from this field
 ***
 
 ## VOLUNTEER WORK
+From a very young age I have been interested in environmental and social issues. This has driven me to volunteer for different organizations, like the ones listed below. 
 
-#### Fundación Escuela de Solidaridad (2019)
-The Foundation gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk.
+_Use the 'How I Contributed' dropdown menus to see all my responsabilities during my work with these organizations._
+
+### Fundación Escuela de Solidaridad (2019)
+This is a Foundation located in a small village near Granada, Spain. It gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk. I spent a month living with them, and even if the conditions were sometimes a bit precarious, it was really inspiring seeing how everyone in the community was trying their best to improve.
+
 <details>
   <summary>How I Contributed</summary>
   <ul>
     <li>Responsible for directing the restoration project of one of the houses.</li>
     <li>Responsible for managing donations of second-hand clothing (storage, stock and distribution).</li>
-    <li>Workshop organization (Sewing, T-shirt Printing and Natural Cosmetics Elaboration).</li>
+    <li>Organized a Workshop on Sewing to produce merchandising for funding.</li>
+    <li>Organized a Workshop on T-Shirt printing.</li>
+    <li>Organized a Workshop on Natural Cosmetics Elaboration.</li>
   </ul>
 </details> 
 
-#### Greenpeace (2008 to 2013)
-As a regional group we developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.
+### Greenpeace (2008 to 2013)
+I started volunteering for Greenpeace when I was only 15 years old. I am from a very small region in Spain and the day I got an email from them asking for volunteers to create a new regional group, I knew that was the place for me. Even for our small size we created a very active group, divided tasks amongst the members, and developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.
+
 <details>
   <summary>How I Contributed</summary>
   <ul>
-    <li>Mail distribution list management.</li>
-    <li>Organize the team and workshops to participate in fairs.</li>
+    <li>Internal mail distribution list management.</li>
+    <li>Managed regional email account for information and demands from the public or other organizations.</li>
+    <li>Create workshops and organize team rotas to participate in fairs.</li>
   </ul>
 </details>
 
-#### Red Cross (2014)
-I was part of the "mobile health care unit", a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...).
+### Red Cross (2014)
+It all started with a First Aid intensive course I did with them. They explained to us all their different departments of the organization and I decided to join them as a volunteer in what they call "mobile health care unit". This is a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...).
 
 <details>
   <summary>How I Contributed</summary>
@@ -183,6 +193,7 @@ I was part of the "mobile health care unit", a vehicle that travels through the 
     <li>Inform about the resources available in the city (organizations, shelters...).</li>
   </ul>
 </details>
+
 ***
 
 ## INTERESTS
