@@ -1,4 +1,4 @@
-# JARA SANTAMARIA MARTINEZ
+# JARA SANTAMARIA ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667) 
 
 I am an amateur coder growing into a competent and confident **Full Stack Junior Developer** while completing the intensive 12 weeks bootcamp of Makers Academy.
 
