@@ -88,7 +88,7 @@ You can see my progress through this intensive course in this repository: [Track
 
 ### University of Salamanca (2010 to 2014)
 
-#### Bachelor of Fine Arts - Sculpture specialism
+#### Bachelor of Fine Arts - Sculpture speciality
 **Erasmus:** I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).
 #### A Levels:
 - Art Psicology
@@ -127,9 +127,8 @@ Perseverance, patience, attention to detail and a very strict time management an
 </details>
   
 
-### Tourism and Hospitality
-
-Summary and skills from this field
+### Tourism
+Team management, customer care and being able to react fast to any unexpected situation were key skills in these roles. I had a lot of responsability, dealing with new team members, big groups of customers and a tight schedule, while paying attention to every detail to make sure they had the best experience. On a side note, working as a translator mixing up to five different languages is a great work out for your brain!
 
 <details>
   <summary>Check Full Experience</summary>
@@ -141,9 +140,8 @@ Summary and skills from this field
 </details>
 
 
-### Food and Retail
-
-Summary and skills from this field
+### Hospitality and Retail
+This field is probably the less exciting for many people, and that leads sometimes to very stressful situations. Communication skills and empathy are very important to deal with problematic customers or with your coworkers and make shifts run smoothly. Patience and self-awareness helped me thrive in these jobs, seeing them as a temporal phase that would allow me reach my future goals.
 
 <details>
   <summary>Check Full Experience</summary>
