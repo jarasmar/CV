@@ -202,24 +202,30 @@ It all started with a First Aid intensive course I did with them. They explained
 ***
 
 ## INTERESTS
-Where to find me when I am not coding:
+At this point I am sure we all know that I like to code. But where to find me when I am not coding? If I had to make a list of all my interests it will be endless, so let's go with the top four.
+
+_Click on any of them to see some further details, anecdotes and adventures._
 
 <details>
-  <summary><strong>Travelling:</strong></summary>
+  <summary><strong>Travelling and Nature</strong></summary>
   <p>My one true passion in life. Finding me while I am might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries.</p>
   <p>Hint 1: Look for the drenched hitchhiker holding a camping tent and a backpack with a panda bear attached to it.</p>
   <p>Hint 2: Mountain hiking and Kayaking are probably going to be on my road map too.</p>
 </details>
  
-### Reading
-Anything, anywhere. Preferably in the shade of a tree, but underground rush hour might as well do.
+<details>
+  <summary><strong>Reading</strong></summary>
+  <p>Anything, anywhere. Preferably in the shade of a tree, but underground rush hour might as well do.</p>
+</details>
 
-### City Culture
-I grew up in a tiny village, and although I'm a nature lover that daily craves for forests and seaside, I am also amazed on how many things a city like London has to offer.
+<details>
+  <summary><strong>City Culture: Art and Architecture</strong></summary>
+  <p>I grew up in a tiny village, and although I'm a nature lover that daily craves for forests and seaside, I am also amazed on how many things a city like London has to offer.</p>
+  <p>I often get lost in endless walks through the city, checking every detail in the architecture and the parks. Museums are my weak point here too, I normally forget time while inside, and only leave whith the closing announcement.</p>
+  <p>Want to know my last discovery? The Royal Opera House. I will never have enough of those dancers, singers and all the amazing costumes and scenarios.</p>
+</details>
 
-I often get lost in endless walks through the city, checking every detail in the architecture and the parks. Museums are my weak point here too, I normally forget time while inside, and only leave whith the closing announcement.
-
-Want to know my last discovery? The Royal Opera House. I will never have enough of those dancers, singers and all the amazing costumes and scenarios.
-
-### Upcycling
-Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.
+<details>
+  <summary><strong>Crafts and Upcycling</strong></summary>
+  <p>Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.</p>
+</details>
