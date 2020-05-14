@@ -19,15 +19,17 @@
 [ EDUCATION ](#education) |
 [ EXPERIENCE ](#experience) |
 [ VOLUNTEER WORK ](#volunteer-work) |
-[ INTERESTS ](#hobbies-and-interests)
+[ INTERESTS ](#interests)
 
 </div>
 
 ***
 
-I am an amateur coder growing into a competent and confident **Full Stack Junior Developer** while completing the intensive 12 weeks bootcamp of Makers Academy.
+I am a **Full Stack Junior Developer** with previous studies on Arts and Cinema. I walked into programming in the most unexpected way and I couldn't be more grateful for it. For someone passionate about travel like me, this discovery opened a new door: the possibility of travelling while working in something that I love. 
 
-In a close future I'd be looking for a role where I can consolidate and extend my programming knowledge and combine it with my creativity background.
+But this is future goals. Right now, recently graduated from Makers Academy, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
+
+Curious about how I decided to change career? [Brief Tale of a Life Change](https://github.com/jarasmar/Learning_Journey_At_Makers/blob/master/README.md)
 
 ***
 
@@ -102,7 +104,7 @@ Highly selective 12 weeks intensive coding bootcamp.
 - Ruby, Rails, JavaScript and React
 - RSpec and Jasmine
 
-Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Track-My-Learning).
+Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Learning_Journey_At_Makers).
 
 ### Instituto del Cine de Madrid (2015 to 2017)
 
