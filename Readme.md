@@ -205,7 +205,7 @@ It all started with a First Aid intensive course I did with them. They explained
 Where to find me when I am not coding:
 
 <details>
-  <summary><h3>Travelling:</h3></summary>
+  <h3><summary>Travelling:</summary></h3>
   <p>My one true passion in life. Finding me while I am might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries.</p>
   <p>Hint 1: Look for the drenched hitchhiker holding a camping tent and a backpack with a panda bear attached to it.</p>
   <p>Hint 2: Mountain hiking and Kayaking are probably going to be on my road map too.</p>
