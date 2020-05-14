@@ -23,12 +23,13 @@
 
 </div>
 
----------
+***
 
 I am an amateur coder growing into a competent and confident **Full Stack Junior Developer** while completing the intensive 12 weeks bootcamp of Makers Academy.
 
 In a close future I'd be looking for a role where I can consolidate and extend my programming knowledge and combine it with my creativity background.
 
+***
 
 ## PROJECTS
 For a complete list, see my [GitHub](https://github.com/jarasmar).
