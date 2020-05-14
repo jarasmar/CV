@@ -1,22 +1,23 @@
 ![Progress](https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667)
 
-<h1 align="center">Jara Santamaria</h1>
+<h1 align="center">JARA SANTAMARIA MARTINEZ</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jarasmar/">
-  <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+    <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+  <img src="https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667" alt="BADGE" hspace="50">
   <a href="https://jarasmar.wordpress.com/">
-  <img src="./images/Wordpress_Logo.png" alt="wordpress" hspace="50" height="42" width="42"></a>
+    <img src="./images/Wordpress_Logo.png" alt="wordpress" hspace="50" height="42" width="42"></a>
 </p>
 
 <div align="center">
 
-[Projects ](#projects) |
-[Skills ](#skills) |
-[Education ](#education) |
-[Experience ](#experience) |
-[Volunteer Work ](#volunteer-work) |
-[Interests ](#hobbies-and-interests)
+[ PROJECTS ](#projects) |
+[ SKILLS ](#skills) |
+[ EDUCATION ](#education) |
+[ EXPERIENCE ](#experience) |
+[ VOLUNTEER WORK ](#volunteer-work) |
+[ INTERESTS ](#hobbies-and-interests)
 
 </div>
 
