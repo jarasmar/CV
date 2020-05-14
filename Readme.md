@@ -59,7 +59,7 @@ _Click on any of them for examples, details or fun facts about myself._
 
 <details>
   <summary><strong>Attention to Detail</strong></summary>
-  <p>From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with *continuity* in filming you know how challenging it can get to make a hair up-do look the exact same through scenes that may be filmed in different days.</p> 
+  <p>From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with 'continuity' in filming you know how challenging it can get to make a hair up-do look the exact same through scenes that may be filmed in different days.</p> 
   <p>Look, look, look and then look again, just in case.</p>
 </details>
 
@@ -92,33 +92,46 @@ _Click on any of them for examples, details or fun facts about myself._
 
 ### Makers Academy (January 2020 to May 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Highly selective 12 weeks intensive coding bootcamp.
 
-You can see my progress through this intensive course in this repository: [Track my Learning](https://github.com/jarasmar/Track-My-Learning)
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
+- Object oriented programming & software design
+- Full stack web development
+- Experience with MVC framework patterns
+- Independent learner and problem-solver
+- Ruby, Rails, JavaScript and React
+- RSpec and Jasmine
+
+Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Track-My-Learning)
 
 ### Instituto del Cine de Madrid (2015 to 2017)
 
-#### Master in Makeup, Hair and Special Effects for Cinema
-- All teachers are part of the team of Jose Quetglas, winner of 8 Goya Awards and a Bafta.
-- While in the school all practices are done in real shooting conditions.
-- After graduating I was selected for an internship in the Jose Quetglas team for the filming of a television series.
-- After graduating I was selected for an internship in the filming of a television news program.
+<details>
+  <summary><strong>Master in Makeup, Hair and Special Effects for Cinema</strong></summary>
+  <ul>
+    <li>All teachers are part of the team of Jose Quetglas, winner of 8 Goya Awards and a Bafta.</li>
+    <li>While in the school all practices are done in real shooting conditions.</li>
+    <li>After graduating I was selected for an internship in the Jose Quetglas team for the filming of a television series.</li>
+    <li>After graduating I was selected for an internship in the filming of a television news program.</li>  
+  </ul>
+</details>
 
 
 ### University of Salamanca (2010 to 2014)
 
-#### Bachelor of Fine Arts - Sculpture speciality
-**Erasmus:** I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).
-#### A Levels:
-- Art Psicology
-- Photography
-- Sculpture
-- Contemporary Art History
-- Scenography
-- Final Project: "The subject and the introspective in art: Diaries of the subconscious"
+<details>
+  <summary><strong>Bachelor of Fine Arts - Sculpture speciality</strong></summary>
+  <p><strong>Erasmus: </strong>I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).</p>
+  <p>A Levels:</p>
+  <ul>
+    <li>Art Psicology</li>
+    <li>Photography</li>
+    <li>Sculpture</li>
+    <li>Contemporary Art History</li>
+    <li>Scenography</li>  
+    <li>Final Project: "The subject and the introspective in art: Diaries of the subconscious"</li>   
+  </ul>
+</details>
 
 ***
 
