@@ -97,7 +97,7 @@ You can see my progress through this intensive course in this repository: [Track
 
 ## EXPERIENCE
 
-#### Makeup, Hair and Costume
+### Makeup, Hair and Costume
 
 Summary and skills from this field
 
@@ -115,16 +115,36 @@ Summary and skills from this field
   </ul>
 </details>
   
-#### Tourism and Hospitality   
-- Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2018 - 01/2019 and 11/2019 - 01/2020)
-- Waitress and Receptionist in Marina Hotel - Malta (10/2014 - 02/2015)
 
-#### Food and Retail   
-- Beauty Consultant and Shop Assistant in Douglas - Madrid (04/2017 - 06/2018)   
-- Shop Assistant in Levadura Madre - Madrid (12/2015 - 09/2016) 
-- Bakery Manager in Cuatro Migas - Salamanca (02/2015 - 10/2016) 
-- Waitress and Shop Assistant in Fresh - Malta (10/2014 - 02/2015)
-- Waitress and Shop Assistant in Candy Cakes - London (06/2012 - 10/2012)
+### Tourism and Hospitality
+
+Summary and skills from this field
+
+<details>
+  <summary>Check Full List of Experience</summary>
+  <ul>
+    <li>Asssistant Manager, Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2019 - 01/2020)</li>
+    <li>Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2018 - 01/2019</li>
+    <li>Receptionist in Marina Hotel - Malta (10/2014 - 02/2015)</li>
+  </ul>
+</details>
+
+
+### Food and Retail
+
+Summary and skills from this field
+
+<details>
+  <summary>Check Full List of Experience</summary>
+  <ul>
+    <li>Beauty Consultant and Shop Assistant in Douglas - Madrid (04/2017 - 06/2018)</li> 
+    <li>Shop Assistant in Levadura Madre - Madrid (12/2015 - 09/2016)</li>
+    <li>Bakery Manager in Cuatro Migas - Salamanca (02/2015 - 10/2016)</li>
+    <li>Waitress in Marina Hotel - Malta (10/2014 - 02/2015)</li>
+    <li>Waitress and Shop Assistant in Fresh - Malta (10/2014 - 02/2015)</li>
+    <li>Waitress and Shop Assistant in Candy Cakes - London (06/2012 - 10/2012)</li>
+  </ul>
+</details> 
 
 ***
 
