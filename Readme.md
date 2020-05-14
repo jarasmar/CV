@@ -198,8 +198,23 @@ It all started with a First Aid intensive course I did with them. They explained
 
 ## INTERESTS
 Where to find me when I am not coding:
-- Travelling, my one true passion in life. Finding me might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries. 
-Hint: Look for the drenched hitchhiker with a camping tent and a backpack with a panda bear on it. 
-Hint 2: Hiking and Kayaking are probably goint to be on my road map too.
-- Reading, anything, anywhere. Preferably in the shade of a tree, but underground rush hour might as well do.
-- Upcycling clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.
+
+#### Travelling
+My one true passion in life. Finding me while I am might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries. 
+
+Hint: Look for the drenched hitchhiker holding a camping tent and a backpack with a panda bear attached to it. 
+
+Hint 2: Mountain hiking and Kayaking are probably going to be on my road map too.
+ 
+### Reading
+Anything, anywhere. Preferably in the shade of a tree, but underground rush hour might as well do.
+
+### City Culture
+I grew up in a tiny village, and although I'm a nature lover that daily craves for forests and seaside, I am also amazed on how many things a city like London has to offer.
+
+I often get lost in endless walks through the city, checking every detail in the architecture and the parks. Museums are my weak point here too, I normally forget time while inside, and only leave whith the closing announcement.
+
+Want to know my last discovery? The Royal Opera House. I will never have enough of those dancers, singers and all the amazing costumes and scenarios.
+
+### Upcycling
+Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.
