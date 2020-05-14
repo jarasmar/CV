@@ -151,24 +151,38 @@ Summary and skills from this field
 ## VOLUNTEER WORK
 
 #### Fundación Escuela de Solidaridad (2019)
-The Foundation gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk. 
-During the time I spent living with them I developed the following functions:
-- Responsible for directing the restoration project of one of the houses.
-- Responsible for managing donations of second-hand clothing (storage, stock and distribution).
-- Workshop organization (Sewing, T-shirt Printing and Natural Cosmetics Elaboration).
+The Foundation gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk.
+<details>
+  <summary>How I Contributed</summary>
+  <ul>
+    <li>Responsible for directing the restoration project of one of the houses.</li>
+    <li>Responsible for managing donations of second-hand clothing (storage, stock and distribution).</li>
+    <li>Workshop organization (Sewing, T-shirt Printing and Natural Cosmetics Elaboration).</li>
+  </ul>
+</details> 
 
 #### Greenpeace (2008 to 2013)
-As a regional group we developed various activities such as public awareness campaigns, events organization, data research or signature campaigns. My responsibilities in the group were:
-- Mail distribution list management.
-- Organize the team and workshops to participate in fairs.
+As a regional group we developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.
+<details>
+  <summary>How I Contributed</summary>
+  <ul>
+    <li>Mail distribution list management.</li>
+    <li>Organize the team and workshops to participate in fairs.</li>
+  </ul>
+</details>
 
 #### Red Cross (2014)
-I was part of the "mobile health care unit", a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...). Most outstanding activities:
-- Monitoring of people in vulnerable situations. 
-- Basic food and warm drinks distribution.
-- Distribution of basic hygiene kits
-- Inform about the resources available in the city (organizations, shelters...).
+I was part of the "mobile health care unit", a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...).
 
+<details>
+  <summary>How I Contributed</summary>
+  <ul>
+    <li>Monitoring of people in vulnerable situations.</li>
+    <li>Basic food and warm drinks distribution.</li>
+    <li>Distribution of basic hygiene kits.</li>
+    <li>Inform about the resources available in the city (organizations, shelters...).</li>
+  </ul>
+</details>
 ***
 
 ## INTERESTS
