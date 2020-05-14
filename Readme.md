@@ -34,35 +34,35 @@ In a close future I'd be looking for a role where I can consolidate and extend m
 ## PROJECTS
 For a complete list, see my [GitHub](https://github.com/jarasmar).
 
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Tribute Page](https://github.com/jarasmar/Tribute_Page_Pandas) | First project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
-|[Survey Form](https://github.com/jarasmar/Survey_Form)| Second project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
+
+Project | Description | Tech Stack | Testing | Links
+--- | --- | --- | --- | ---
+
 
 ***
 
 ## SKILLS
 
 #### Adaptability
-I have build a new life from scratch more times than I can count. I have lived in over ten different regions in five different countries. Each one of them with new people, new languages, new jobs. None of this is a problem, only the chance for an adventure. Let's start a new one.
+I have build a new life from scratch more times than I can count. I have lived in over ten different regions in five different countries. Each one of them with new people, new languages, new jobs. None of this is a problem, only the chance for an adventure.
 
-#### Creativity
-Trained in fine art and survivor of many kind of low-budget life projects I have learned to be creative with my problem-solving. If something seems imposible from the point you are looking at it, you just need to move and find a different point of view.
-
-#### Curiosity 
-What? Why? How? If you talk to me about something I don't know, this is the reaction you should expect. As we say in my country *'el saber no ocupa lugar'* (knowledge does not take up space).
+#### Creative Problem Solving
+Survivor of many kind of low-budget life projects I have learned to be creative with my problem-solving. If something seems imposible from the point you are looking at it, you just need to move and find a different point of view. Some years ago I decided to help a friend whose family bakery was struggling. It had a great location, but was too old-fashioned as the neighbourhood had passed from being very traditional to host mostly students. We had almost no money but I love refurbishing and upcycling. It ended up being a mix of bakery and coffee shop, keeping the traditional good recipes but with a fresh look and a lot of young new customers..
 
 #### Attention to detail
-From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with *continuity* in filming you know how challenging can get to make a hair updo look the exact same through scenes that may be filmed in different days. Look, look, look and then look again, just in case.
+From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with *continuity* in filming you know how challenging can get to make a hair up-do look the exact same through scenes that may be filmed in different days. Look, look, look and then look again, just in case.
 
 #### Organization
-I love a plan, a list and a schedule. Even if I just make them for breaking them a minute later (life is unexpected and sometimes improvising is key). This is a skill I have also learned on set, where there is always a thousand things going on at the same time. Human memory has its limits: Do you remember if the extra actor was wearing a watch in the scene we started to shoot two weeks ago?  Make records of everything, file it properly and keep it organized. I can't tell how much I've fallen in love with git commits for this reason.
+I love a plan, a list and a schedule. Even if I just make them for breaking them a minute later (life is unexpected and sometimes improvising is key). This is a skill I have also learned on set, where there is always a thousand things going on at the same time. Human memory has its limits: Do you remember if the extra actor was wearing a watch in the scene we started to shoot two weeks ago?  Make records of everything, file it properly and keep it organized. I can't tell how much I've fallen in love with git flow for this reason.
+
+#### Languages
+I am fluent in Spanish, English and Italian, with some basic understanding of French. I LOVE travelling, and had quite a lot of crazy anecdotes that would prove how I'm always willing to dive into a new language. For example, while spending two months hitch hiking through the countryside in Greece (where no one speaks English) I somehow managed to have the funniest conversations in 'Greek' with locals. I can also sing a Christmas carol in Finnish.
 
 #### Team-player
 Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.
 
-#### Foreign Languages
-Fluent in Spanish, English and Italian, with some basic understanding of French. Always willing to dive into a new language.
+#### Curiosity 
+What? Why? How? If you talk to me about something I don't know, this is the reaction you should expect. As we say in my country *'el saber no ocupa lugar'* (knowledge does not take up space).
 
 ***
 
