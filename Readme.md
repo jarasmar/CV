@@ -108,6 +108,7 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 
 <details>
   <summary>Master in Makeup, Hair and Special Effects for Cinema</summary>
+  <br>
   <ul>
     <li>All teachers are part of the team of Jose Quetglas, winner of 8 Goya Awards and a Bafta.</li>
     <li>While in the school all practices are done in real shooting conditions.</li>
@@ -121,8 +122,9 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 
 <details>
   <summary>Bachelor of Fine Arts - Sculpture speciality</summary>
+  <br>
   <p><strong>Erasmus: </strong>I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).</p>
-  <p>A Levels:</p>
+  <p><strong>A Levels:</strong></p>
   <ul>
     <li>Art Psicology</li>
     <li>Photography</li>
