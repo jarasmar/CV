@@ -1,3 +1,5 @@
+<br>
+
 <h1 align="center">JARA SANTAMARIA MARTINEZ</h1>
 
 <p align="center">
@@ -199,7 +201,7 @@ It all started with a First Aid intensive course I did with them. They explained
 ## INTERESTS
 Where to find me when I am not coding:
 
-#### Travelling
+### Travelling
 My one true passion in life. Finding me while I am might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries. 
 
 Hint: Look for the drenched hitchhiker holding a camping tent and a backpack with a panda bear attached to it. 
