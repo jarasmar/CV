@@ -201,6 +201,7 @@ _Click on any of them to see some further details about the organizations and my
 
 <details>
   <summary><strong>Fundación Escuela de Solidaridad (2019)</strong></summary>
+  <br>
   <p>This is a Foundation located in a small village near Granada, Spain. It gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk. I spent a month living with them, and even if the conditions were sometimes a bit precarious, it was really inspiring seeing how everyone in the community was trying their best to improve.</p>
   <p>My collaboration:</p>
   <ul>
@@ -214,6 +215,7 @@ _Click on any of them to see some further details about the organizations and my
 
 <details>
   <summary><strong>Greenpeace (2008 to 2013)</strong></summary>
+  <br>
   <p>I started volunteering for Greenpeace when I was only 15 years old. I am from a very small region in Spain and the day I got an email from them asking for volunteers to create a new regional group, I knew that was the place for me. Even for our small size we created a very active group, divided tasks amongst the members, and developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.</p>
   <p>My collaboration:</p>
   <ul>
@@ -225,6 +227,7 @@ _Click on any of them to see some further details about the organizations and my
 
 <details>
   <summary><strong>Red Cross (2014)</strong></summary>
+  <br>
   <p>It all started with a First Aid intensive course I did with them. They explained to us all their different departments of the organization and I decided to join them as a volunteer in what they call "mobile health care unit". This is a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...)</p>
   <p>My collaboration:</p>
   <ul>
@@ -244,6 +247,7 @@ _Click on any of them to see some further details, anecdotes and adventures._
 
 <details>
   <summary><strong>Travelling and Nature</strong></summary>
+  <br>
   <p>My one true passion in life. Finding me while I am might not be that easy though, I have a mysterious tendency to end up lost in the middle of nowhere in northern and rainy countries.</p>
   <p>Hint 1: Look for the drenched hitchhiker holding a camping tent and a backpack with a panda bear attached to it.</p>
   <p>Hint 2: Mountain hiking and Kayaking are probably going to be on my road map too.</p>
@@ -251,11 +255,13 @@ _Click on any of them to see some further details, anecdotes and adventures._
  
 <details>
   <summary><strong>Reading</strong></summary>
+  <br>
   <p>Anything, anywhere. Preferably in the shade of a tree, but underground rush hour might as well do.</p>
 </details>
 
 <details>
   <summary><strong>City Culture: Art and Architecture</strong></summary>
+  <br>
   <p>I grew up in a tiny village, and although I'm a nature lover that daily craves for forests and seaside, I am also amazed on how many things a city like London has to offer.</p>
   <p>I often get lost in endless walks through the city, checking every detail in the architecture and the parks. Museums are my weak point here too, I normally forget time while inside, and only leave whith the closing announcement.</p>
   <p>Want to know my last discovery? The Royal Opera House. I will never have enough of those dancers, singers and all the amazing costumes and scenarios.</p>
@@ -263,5 +269,6 @@ _Click on any of them to see some further details, anecdotes and adventures._
 
 <details>
   <summary><strong>Crafts and Upcycling</strong></summary>
+  <br>
   <p>Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.</p>
 </details>
