@@ -102,12 +102,12 @@ Highly selective 12 weeks intensive coding bootcamp.
 - Ruby, Rails, JavaScript and React
 - RSpec and Jasmine
 
-Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Track-My-Learning)
+Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Track-My-Learning).
 
 ### Instituto del Cine de Madrid (2015 to 2017)
 
 <details>
-  <summary><strong>Master in Makeup, Hair and Special Effects for Cinema</strong></summary>
+  <summary>Master in Makeup, Hair and Special Effects for Cinema</summary>
   <ul>
     <li>All teachers are part of the team of Jose Quetglas, winner of 8 Goya Awards and a Bafta.</li>
     <li>While in the school all practices are done in real shooting conditions.</li>
@@ -120,7 +120,7 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 ### University of Salamanca (2010 to 2014)
 
 <details>
-  <summary><strong>Bachelor of Fine Arts - Sculpture speciality</strong></summary>
+  <summary>Bachelor of Fine Arts - Sculpture speciality</summary>
   <p><strong>Erasmus: </strong>I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).</p>
   <p>A Levels:</p>
   <ul>
