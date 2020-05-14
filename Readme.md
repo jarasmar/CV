@@ -26,6 +26,16 @@ I am an amateur coder growing into a competent and confident **Full Stack Junior
 In a close future I'd be looking for a role where I can consolidate and extend my programming knowledge and combine it with my creativity background.
 
 
+## PROJECTS
+For a complete list, see my [GitHub](https://github.com/jarasmar).
+
+| Project   | Description | Technologies |
+|---        |---         |---           |
+| [Tribute Page](https://github.com/jarasmar/Tribute_Page_Pandas) | First project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
+|[Survey Form](https://github.com/jarasmar/Survey_Form)| Second project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
+
+***
+
 ## SKILLS
 
 #### Adaptability
@@ -48,16 +58,6 @@ Always comfortable finding my place in a team, whether that calls for knuckling 
 
 #### Foreign Languages
 Fluent in Spanish, English and Italian, with some basic understanding of French. Always willing to dive into a new language.
-
-***
-
-## PROJECTS
-For a complete list, see my [GitHub](https://github.com/jarasmar).
-
-| Project   | Description | Technologies |
-|---        |---         |---           |
-| [Tribute Page](https://github.com/jarasmar/Tribute_Page_Pandas) | First project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
-|[Survey Form](https://github.com/jarasmar/Survey_Form)| Second project from my Responsive Web Design Certification (300 hours) from FreeCodeCamp. | HTML, CSS |
 
 ***
 
@@ -97,16 +97,24 @@ You can see my progress through this intensive course in this repository: [Track
 
 ## EXPERIENCE
 
-#### Makeup, Hair and Costume  
-- Makeup Artist and Hair Stylist in Blow LTD - London (04/2019 - 11/2019)
-- Head Makeup, Hair and Costume Artist in a Film with Chromatiques Productions - Alicante (09/2018 - 11/2018) 
-- Children Face Painter in Froggies Events - Madrid (10/2016 - 06/2018) 
-- SFX Artist in a Videoclip with Amnesia Productions - Madrid (02/2018 - 03/2018)   
-- Makeup Dpt. (internship) in a TVE Program “BDBT” with Lavinia Productions - Madrid (10/2017 - 12/2017) 
-- Makeup Dpt. (internship) in a RTVE Series “Sabuesos” with Plano a Plano Productions - Madrid (09/2017 - 10/2017)  
-- Key Makeup Artist in a Videoclip with Gabezia - Madrid (02/2017 - 03/2017)
-- Makeup and SFX Artist in Beefeater Event - Madrid (01/2017 - 01/2017)
+#### Makeup, Hair and Costume
 
+Summary and skills from this field
+
+<details>
+  <summary>Check Full List of Experience</summary>
+  <ul>
+    <li>Makeup Artist and Hair Stylist in Blow LTD - London (04/2019 - 11/2019)</li>
+    <li>Head Makeup, Hair and Costume Artist in a Film with Chromatiques Productions - Alicante (09/2018 - 11/2018)</li> 
+    <li>Children Face Painter in Froggies Events - Madrid (10/2016 - 06/2018)</li> 
+    <li>SFX Artist in a Videoclip with Amnesia Productions - Madrid (02/2018 - 03/2018)</li>   
+    <li>Makeup Dpt. (internship) in a TVE Program “BDBT” with Lavinia Productions - Madrid (10/2017 - 12/2017)</li>
+    <li>Makeup Dpt. (internship) in a RTVE Series “Sabuesos” with Plano a Plano Productions - Madrid (09/2017 - 10/2017)</li> 
+    <li>Key Makeup Artist in a Videoclip with Gabezia - Madrid (02/2017 - 03/2017)</li>
+    <li>Makeup and SFX Artist in Beefeater Event - Madrid (01/2017 - 01/2017)</li>
+  </ul>
+</details>
+  
 #### Tourism and Hospitality   
 - Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2018 - 01/2019 and 11/2019 - 01/2020)
 - Waitress and Receptionist in Marina Hotel - Malta (10/2014 - 02/2015)
