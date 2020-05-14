@@ -162,13 +162,12 @@ Summary and skills from this field
 ## VOLUNTEER WORK
 From a very young age I have been interested in environmental and social issues. This has driven me to volunteer for different organizations, like the ones listed below. 
 
-_Use the 'How I Contributed' dropdown menus to see all my responsabilities during my work with these organizations._
-
-### Fundación Escuela de Solidaridad (2019)
-This is a Foundation located in a small village near Granada, Spain. It gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk. I spent a month living with them, and even if the conditions were sometimes a bit precarious, it was really inspiring seeing how everyone in the community was trying their best to improve.
+_Click on any of them to see some further details about the organizations and my responsibilities._
 
 <details>
-  <summary>How I Contributed</summary>
+  <summary><strong>Fundación Escuela de Solidaridad (2019)</strong></summary>
+  <p>This is a Foundation located in a small village near Granada, Spain. It gives home to over one hundred people living in social disadvantage, abuse or exclusion: mothers with children in emergency situations, young immigrants, adults and adolescents at risk. I spent a month living with them, and even if the conditions were sometimes a bit precarious, it was really inspiring seeing how everyone in the community was trying their best to improve.</p>
+  <p>My collaboration:</p>
   <ul>
     <li>Responsible for directing the restoration project of one of the houses.</li>
     <li>Responsible for managing donations of second-hand clothing (storage, stock and distribution).</li>
@@ -178,11 +177,10 @@ This is a Foundation located in a small village near Granada, Spain. It gives ho
   </ul>
 </details> 
 
-### Greenpeace (2008 to 2013)
-I started volunteering for Greenpeace when I was only 15 years old. I am from a very small region in Spain and the day I got an email from them asking for volunteers to create a new regional group, I knew that was the place for me. Even for our small size we created a very active group, divided tasks amongst the members, and developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.
-
 <details>
-  <summary>How I Contributed</summary>
+  <summary><strong>Greenpeace (2008 to 2013)</strong></summary>
+  <p>I started volunteering for Greenpeace when I was only 15 years old. I am from a very small region in Spain and the day I got an email from them asking for volunteers to create a new regional group, I knew that was the place for me. Even for our small size we created a very active group, divided tasks amongst the members, and developed various activities such as public awareness campaigns, events organization, data research or signature campaigns.</p>
+  <p>My collaboration:</p>
   <ul>
     <li>Internal mail distribution list management.</li>
     <li>Managed regional email account for information and demands from the public or other organizations.</li>
@@ -190,11 +188,10 @@ I started volunteering for Greenpeace when I was only 15 years old. I am from a 
   </ul>
 </details>
 
-### Red Cross (2014)
-It all started with a First Aid intensive course I did with them. They explained to us all their different departments of the organization and I decided to join them as a volunteer in what they call "mobile health care unit". This is a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...).
-
 <details>
-  <summary>How I Contributed</summary>
+  <summary><strong>Red Cross (2014)</strong></summary>
+  <p>It all started with a First Aid intensive course I did with them. They explained to us all their different departments of the organization and I decided to join them as a volunteer in what they call "mobile health care unit". This is a vehicle that travels through the city at night and tries to detect and address the basic socio-health needs of people on the street (homeless people, drug addicts, prostitutes, elderly people without resources...)</p>
+  <p>My collaboration:</p>
   <ul>
     <li>Monitoring of people in vulnerable situations.</li>
     <li>Basic food and warm drinks distribution.</li>
