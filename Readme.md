@@ -149,16 +149,12 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 ***
 
 ## EXPERIENCE
-Working takes a big part of a person life time and unfortunatelly few of us loved all our past jobs. I am not exception, but even if I have complaints from a lot of my past roles, I can still see how much I learnt from those experiences. 
-
 This is a list of the main fields I have worked on, with a brief summary of the skills I developed working in them. Welcome to my working life, from television sets to baking bread, with a fun stop as a Christmas elf in Finland. 
 
 _Use the 'Check Full Experience' dropdown menus to see all the specific roles, places and dates of employment I had in each catergory._
 
 ### Makeup, Hair and Costume
-One of my passions and the reason I moved to London in the first place. Working in cinema or television is difficult to achieve and has exhausting schedules but it is highly rewarding. 
-
-Perseverance, patience, attention to detail and a very strict time management and organization skills are the most valuable skills I got from this part of my job experience. It is also a great practice for team work and delegation, specially when working in big projects.
+**Perseverance**, **patience**, **attention to detail** and a very strict **time management** and **organization** skills are the most valuable skills I got from this part of my job experience. It is also a great practice for **team work** and delegation, specially when working in big projects.
 
 <details>
   <summary>Check Full Experience</summary>
@@ -189,7 +185,7 @@ Team management, customer care and being able to react fast to any unexpected si
 
 
 ### Hospitality and Retail
-This field is probably the less exciting for many people, and that leads sometimes to very stressful situations. Communication skills and empathy are very important to deal with problematic customers or with your coworkers and make shifts run smoothly. Patience and self-awareness helped me thrive in these jobs, seeing them as a temporal phase that would allow me reach my future goals.
+Communication skills, self-awareness and empathy are very important to deal with problematic customers or with your coworkers and make shifts run smoothly.
 
 <details>
   <summary>Check Full Experience</summary>
