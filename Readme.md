@@ -172,7 +172,7 @@ _Use the 'Check Full Experience' dropdown menus to see all the specific roles, p
   
 
 ### Tourism
-Team management, customer care and being able to react fast to any unexpected situation were key skills in these roles. I had a lot of responsability, dealing with new team members, big groups of customers and a tight schedule, while paying attention to every detail to make sure they had the best experience. On a side note, working as a translator mixing up to five different languages is a great work out for your brain!
+**Team management**, customer care and being able to **react fast to any unexpected situation** were key skills in these roles. I had a lot of responsability, dealing with new team members, big groups of customers and a tight schedule, while paying attention to every detail to make sure they had the best experience. On a side note, working as a translator mixing up to five different languages is a great work out for your brain!
 
 <details>
   <summary>Check Full Experience</summary>
@@ -185,7 +185,7 @@ Team management, customer care and being able to react fast to any unexpected si
 
 
 ### Hospitality and Retail
-Communication skills, self-awareness and empathy are very important to deal with problematic customers or with your coworkers and make shifts run smoothly.
+**Communication** skills, **self-awareness** and **empathy** are very important to deal with problematic customers or with your coworkers and make shifts run smoothly.
 
 <details>
   <summary>Check Full Experience</summary>
