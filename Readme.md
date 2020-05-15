@@ -39,7 +39,7 @@ For a complete list, see my [GitHub](https://github.com/jarasmar).
 
 Project | Description | Tech Stack | Testing | Links
 --- | --- | --- | --- | ---
-Mix Tape | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | Rails, React, Postgres, CSS | Rspec, Capybara | <a href="https://mix-tape-makers.herokuapp.com/signin"><img width="1604" alt="heroky" src="./images/Heroku_Logo.png" height="222" width="258"> </a>
+Mix Tape | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | Rails, React, Postgres, CSS | Rspec, Capybara | <a href="https://mix-tape-makers.herokuapp.com/signin"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a>
 
 
 
