@@ -39,9 +39,9 @@ For a complete list, see my [GitHub](https://github.com/jarasmar).
 
 Project | Description | Tech Stack | Testing | Links
 --- | --- | --- | --- | ---
-Mix Tape | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | Rails, React, Postgres, CSS | Rspec, Capybara | <a href="https://mix-tape-makers.herokuapp.com/signin">
-    <img src="./images/Heroku_Logo.png" alt="Heroku" hspace="30" height="42" width="42"></a> <a href="https://github.com/jarasmar/mix-tape">
-    <img src="./images/Github_Logo.png" alt="Github" hspace="30" height="42" width="42"></a>
+Mix Tape | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | Rails, React, Postgres, CSS | Rspec, Capybara | ![./images/Heroku_Logo.png](https://mix-tape-makers.herokuapp.com/signin) ![./images/Github_Logo.png](https://github.com/jarasmar/mix-tape)
+
+
 Acebook | First time using Rails, building a clone of Facebook | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara | ![heroku](https://the-undefined-method.herokuapp.com/users/sign_in) ![github](https://github.com/jarasmar/acebook-theUndefinedMethod)
 MakersBnB | Clone of AirBnb | Ruby, Sinatra, Postgres, CSS | Rspec, Capybara | ![github](https://github.com/jarasmar/MakersBnB)
 Thermostat | After manipulating the temperature saves the status and also offers outdoor temperature information from a weather API | JavaScript, JQuery, Sinatra, Postgres, CSS | Rspec | ![github](https://github.com/jarasmar/Thermostat)
