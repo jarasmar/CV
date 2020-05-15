@@ -158,6 +158,7 @@ _Use the 'Check Full Experience' dropdown menus to see all the specific roles, p
 
 <details>
   <summary>Check Full Experience</summary>
+  <br>
   <ul>
     <li>Makeup Artist and Hair Stylist in Blow LTD - London (04/2019 - 11/2019)</li>
     <li>Head Makeup, Hair and Costume Artist in a Film with Chromatiques Productions - Alicante (09/2018 - 11/2018)</li> 
@@ -176,6 +177,7 @@ _Use the 'Check Full Experience' dropdown menus to see all the specific roles, p
 
 <details>
   <summary>Check Full Experience</summary>
+  <br>
   <ul>
     <li>Asssistant Manager, Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2019 - 01/2020)</li>
     <li>Activity Guide and Translator in Pohjolan Pirtti - Finland (11/2018 - 01/2019</li>
@@ -189,6 +191,7 @@ _Use the 'Check Full Experience' dropdown menus to see all the specific roles, p
 
 <details>
   <summary>Check Full Experience</summary>
+  <br>
   <ul>
     <li>Beauty Consultant and Shop Assistant in Douglas - Madrid (04/2017 - 06/2018)</li> 
     <li>Shop Assistant in Levadura Madre - Madrid (12/2015 - 09/2016)</li>
