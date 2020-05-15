@@ -27,7 +27,7 @@
 
 I am a **Full Stack Junior Developer** with previous studies on Arts and Cinema. I walked into programming in the most unexpected way and I couldn't be more grateful for it. For someone passionate about travel like me, this discovery opened a new door: the possibility of travelling while working in something that I love. 
 
-But this is future goals. Right now, recently graduated from Makers Academy, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
+But this is future goals. Right now, recently graduated from **Makers Academy**, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
 
 Curious about how I decided to change career? [Brief Tale of a Life Change](https://github.com/jarasmar/Learning_Journey_At_Makers/blob/master/README.md)
 
@@ -52,42 +52,48 @@ Life is like travelling, everything changes constantly, and all our experiences 
 _Click on any of them for examples, details or fun facts about myself._
 
 <details>
+  <summary><strong>Languages: Spanish, English and Italian</strong></summary>
+  <br>
+  <p>I am fluent in Spanish, English and Italian, with some basic understanding of French.</p> 
+  <p>I LOVE travelling, and had quite a lot of crazy anecdotes that would prove how I'm always willing to dive into a new language. For example, while spending two months hitch hiking through the countryside in Greece (where no one speaks English) I somehow managed to have the funniest conversations in 'Greek' with locals. I can also sing a Christmas carol in Finnish.</p>
+</details>
+
+<details>
   <summary><strong>Adaptability</strong></summary>
+  <br>
   <p>I have build a new life from scratch more times than I can count. I have lived in over ten different regions in five different countries. Each one of them with new people, new languages, new jobs. None of this is a problem, only the chance for an adventure.</p>
 </details>
 
 <details>
   <summary><strong>Creative Problem Solving</strong></summary>
-  <p>Survivor of many kind of low-budget life projects I have learned to be creative with my problem-solving. If something seems imposible from the point you are looking at it, you just need to move and find a different point of view.</p> 
-  <p>Some years ago I decided to help a friend whose family bakery was struggling. It had a great location, but was too old-fashioned as the neighbourhood had passed from being very traditional to host mostly students. We had almost no money but I love refurbishing and upcycling. It ended up being a mix of bakery and coffee shop, keeping the traditional good recipes but with a fresh look and a lot of young new customers.</p>
+  <br>
+  <p>Survivor of many kind of low-budget life projects I have learned to be creative with my problem-solving. If something seems impossible from the point you are looking at it, you just need to move and find a different point of view.</p> 
 </details>
 
 <details>
   <summary><strong>Attention to Detail</strong></summary>
+  <br>
   <p>From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with 'continuity' in filming you know how challenging it can get to make a hair up-do look the exact same through scenes that may be filmed in different days.</p> 
   <p>Look, look, look and then look again, just in case.</p>
 </details>
 
 <details>
   <summary><strong>Organization</strong></summary>
+  <br>
   <p>I love a plan, a list and a schedule. Even if I just make them for breaking them a minute later (life is unexpected and sometimes improvising is key).</p> 
   <p>This is a skill I have also learned on set, where there is always a thousand things going on at the same time. Human memory has its limits: Do you remember if the extra actor was wearing a watch in the scene we started to shoot two weeks ago? I bet you don't. Make records of everything, file it properly and keep it organized.</p> 
   <p>I can't tell how much I've fallen in love with git flow for this reason.</p>
 </details>
 
 <details>
-  <summary><strong>Languages</strong></summary>
-  <p>I am fluent in Spanish, English and Italian, with some basic understanding of French.</p> 
-  <p>I LOVE travelling, and had quite a lot of crazy anecdotes that would prove how I'm always willing to dive into a new language. For example, while spending two months hitch hiking through the countryside in Greece (where no one speaks English) I somehow managed to have the funniest conversations in 'Greek' with locals. I can also sing a Christmas carol in Finnish.</p>
-</details>
-
-<details>
   <summary><strong>Team-Player</strong></summary>
+  <br>
   <p>Always comfortable finding my place in a team, whether that calls for knuckling down and getting my hands dirty or offering leadership when the situation arises.</p>
 </details>
 
 <details>
   <summary><strong>Curiosity</strong></summary>
+  <br>
   <p>What? Why? How? If you talk to me about something I don't know, this is the reaction you should expect. As we say in my country 'el saber no ocupa lugar' (knowledge does not take up space).</p>
 </details>
 
