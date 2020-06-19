@@ -25,9 +25,9 @@
 
 ***
 
-I am a **Full Stack Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
+I am a **Full-Stack Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
 
-I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continous learning process it involves.  
+I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continuous learning process it involves.  
 
 Recently graduated from **Makers Academy**, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
 
