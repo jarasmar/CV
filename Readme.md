@@ -138,15 +138,6 @@ Interested in this experience? I wrote daily notes and reflections of my journey
   <summary>Bachelor of Fine Arts - Sculpture speciality</summary>
   <br>
   <p><strong>Erasmus: </strong>I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).</p>
-  <p><strong>A Levels:</strong></p>
-  <ul>
-    <li>Art Psicology</li>
-    <li>Photography</li>
-    <li>Sculpture</li>
-    <li>Contemporary Art History</li>
-    <li>Scenography</li>  
-    <li>Final Project: "The subject and the introspective in art: Diaries of the subconscious"</li>   
-  </ul>
 </details>
 
 ***
