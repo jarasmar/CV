@@ -72,7 +72,7 @@ _Click on any of them for examples, details or fun facts about myself._
   <br>
   <p>Survivor of many kinds of low-budget life projects I have learned to be creative with my problem-solving. If something seems impossible from the point you are looking at it, you just need to move and find a different point of view.</p> 
   <p>When I was volunteering in a refugee community there was a house that was being refurbished to host school groups that will come to volunteer. Three days before their arrival the manager asked me to choose all the furniture from the donation warehouse. We then realized that the house was not ready at all, electricity was not working in some rooms and the walls were not painted. I asked to take control of the project, organized the residents in different teams and after three very intense days, the house was more or less ready. There was still some small things to do: upcycling the sofas, getting kitchen gear, some decorations... There was no time left so when the new volunteers arrived I organized a game to search the community for everything that was missing, and make the house theirs.</p>
-  <p>I usually find myself having fun while working against the clock. An example is the Hack-for-Heroes hackathon I participated in May. Two and a half days of coding to make an app related to the Covid-19 crisis. Check my project [here](https://github.com/jarasmar/hfh_corona_game).</p>
+  <p>I usually find myself having fun while working against the clock. An example is the Hack-for-Heroes hackathon I participated in May. Two and a half days of coding to make an app related to the Covid-19 crisis. Check my project <a href='https://github.com/jarasmar/hfh_corona_game'>here</a>.</p>
 </details>
 
 <details>
