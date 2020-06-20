@@ -58,26 +58,28 @@ _Click on any of them for examples, details or fun facts about myself._
   <summary><strong>Languages: Spanish, English and Italian</strong></summary>
   <br>
   <p>I am fluent in Spanish, English and Italian, with some basic understanding of French.</p> 
-  <p>I LOVE travelling, and had quite a lot of crazy anecdotes that would prove how I'm always willing to dive into a new language. For example, while spending two months hitch hiking through the countryside in Greece (where no one speaks English) I somehow managed to have the funniest conversations in 'Greek' with locals. I can also sing a Christmas carol in Finnish.</p>
+  <p>I LOVE travelling and had quite a lot of crazy anecdotes that would prove how I'm always willing to dive into a new language. For example, while spending two months hitchhiking through the countryside in Greece (where no one speaks English) I somehow managed to have the funniest conversations in 'Greek' with locals. I can also sing a Christmas carol in Finnish.</p>
 </details>
 
 <details>
   <summary><strong>Adaptability</strong></summary>
   <br>
-  <p>I have build a new life from scratch more times than I can count. I have lived in over ten different regions in five different countries. Each one of them with new people, new languages, new jobs. None of this is a problem, only the chance for an adventure.</p>
+  <p>I have built a new life from scratch more times than I can count. I have lived in over ten different regions in five different countries. Each one of them with new people, new languages, new jobs. None of this is a problem, only the chance for an adventure.</p>
 </details>
 
 <details>
   <summary><strong>Creative Problem Solving</strong></summary>
   <br>
-  <p>Survivor of many kind of low-budget life projects I have learned to be creative with my problem-solving. If something seems impossible from the point you are looking at it, you just need to move and find a different point of view.</p> 
+  <p>Survivor of many kinds of low-budget life projects I have learned to be creative with my problem-solving. If something seems impossible from the point you are looking at it, you just need to move and find a different point of view.</p> 
+  <p>When I was volunteering in a refugee community there was a house that was being refurbished to host school groups that will come to volunteer. Three days before their arrival the manager asked me to choose all the furniture from the donation warehouse. We then realized that the house was not ready at all, electricity was not working in some rooms and the walls were not painted. I asked to take control of the project, organized the residents in different teams and after three very intense days, the house was more or less ready. There was still some small things to do: upcycling the sofas, getting kitchen gear, some decorations... There was no time left so when the new volunteers arrived I organized a game to search the community for everything that was missing, and make the house theirs.</p>
+  <p>I usually find myself having fun while working against the clock. An example is the Hack-for-Heroes hackathon I participated in May. Two and a half days of coding to make an app related to the Covid-19 crisis. Check my project [here](https://github.com/jarasmar/hfh_corona_game).</p>
 </details>
 
 <details>
   <summary><strong>Attention to Detail</strong></summary>
   <br>
   <p>From my background as a makeup, hair and costume artist for cinema I've learnt the importance of paying attention to detail. If you have ever dealt with 'continuity' in filming you know how challenging it can get to make a hair up-do look the exact same through scenes that may be filmed in different days.</p> 
-  <p>Look, look, look and then look again, just in case.</p>
+  <p>This ability is extremely useful for debugging. Look, look, look and then look again, just in case.</p>
 </details>
 
 <details>
@@ -85,7 +87,7 @@ _Click on any of them for examples, details or fun facts about myself._
   <br>
   <p>I love a plan, a list and a schedule. Even if I just make them for breaking them a minute later (life is unexpected and sometimes improvising is key).</p> 
   <p>This is a skill I have also learned on set, where there is always a thousand things going on at the same time. Human memory has its limits: Do you remember if the extra actor was wearing a watch in the scene we started to shoot two weeks ago? I bet you don't. Make records of everything, file it properly and keep it organized.</p> 
-  <p>I can't tell how much I've fallen in love with git flow for this reason.</p>
+  <p>I can't tell how much I've fallen in love with git-flow for this reason.</p>
 </details>
 
 <details>
