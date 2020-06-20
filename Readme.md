@@ -146,12 +146,12 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 ***
 
 ## EXPERIENCE
-This is a list of the main fields I have worked on, with a brief summary of the skills I developed working in them. Welcome to my working life, from television sets to baking bread, with a fun stop as a Christmas elf in Finland. 
+This is a list of the main fields I have worked on, with a summary of the skills I developed working in them. Welcome to my working life, from television sets to baking bread, with a fun stop as a Christmas elf in Finland. 
 
-_Use the 'Check Full Experience' dropdown menus to see all the specific roles, places and dates of employment I had in each catergory._
+_Use the 'Check Full Experience' dropdown menus to see all the specific roles, places and dates of employment I had in each category._
 
 ### Makeup, Hair and Costume
-**Perseverance**, **patience**, **attention to detail** and a very strict **time management** and **organization** skills are the most valuable skills I got from this part of my job experience. It is also a great practice for **team work** and delegation, specially when working in big projects.
+**Perseverance**, **patience**, **attention to detail** and a very strict **time management** and **organization** skills are the most valuable skills I got from this part of my job experience. It is also a great practice for **teamwork** and delegation, especially when working in big projects.
 
 <details>
   <summary>Check Full Experience</summary>
@@ -170,7 +170,7 @@ _Use the 'Check Full Experience' dropdown menus to see all the specific roles, p
   
 
 ### Tourism
-**Team management**, customer care and being able to **react fast to any unexpected situation** were key skills in these roles. I had a lot of responsibility, dealing with new team members, big groups of customers and a tight schedule, while paying attention to every detail to make sure they had the best experience. On a side note, working as a translator mixing up to five different languages is a great work out for your brain!
+**Team management**, customer care and being able to **react fast to any unexpected situation** were key skills in these roles. I had a lot of responsibility, teaching new team members, big groups of customers and a tight schedule while paying attention to every detail to make sure they had the best experience. On a side note, working as a translator in an environment that mixes up to five different languages is a great work out for your brain!
 
 <details>
   <summary>Check Full Experience</summary>
