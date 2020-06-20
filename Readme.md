@@ -110,13 +110,13 @@ _Click on any of them for examples, details or fun facts about myself._
 
 Highly selective 12 weeks intensive coding bootcamp.
 
-- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way
-- Object oriented programming & software design
-- Full stack web development
-- Experience with MVC framework patterns
-- Independent learner and problem-solver
-- Ruby, Rails, JavaScript and React
-- RSpec and Jasmine
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
+- Object Oriented programming & software design.
+- Full-Stack web development.
+- Experience with MVC framework patterns.
+- Independent learner and problem-solver.
+- Ruby, Rails, JavaScript and React.
+- RSpec and Jasmine.
 
 Interested in this experience? I wrote daily notes and reflections of my journey in Makers in [this repository](https://github.com/jarasmar/Learning_Journey_At_Makers).
 
@@ -139,6 +139,7 @@ Interested in this experience? I wrote daily notes and reflections of my journey
 <details>
   <summary>Bachelor of Fine Arts - Sculpture speciality</summary>
   <br>
+  <p><strong>Main Subjects: </strong>Sculpture, Photography, Painting, Digital Design, Carving.</p>
   <p><strong>Erasmus: </strong>I took the third year of my degree in Accademia di Belle Arti di Carrara (Italy).</p>
 </details>
 
