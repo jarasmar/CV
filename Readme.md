@@ -45,7 +45,11 @@ Mix Tape | First time using React calling Rails for the backend and Spotify API.
 Corona Run Game | Run and jump game built for a 2.5 days hackathon | javascript, p5.js, CSS |  | <a href="https://github.com/jarasmar/hfh_corona_game"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
 Acebook | First time using Rails, building a clone of Facebook | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara | <a href="https://the-undefined-method.herokuapp.com/users/sign_in"><img alt="heroku" src="./images/Heroku_Logo.png" height="42" width="42"> </a><a href="https://github.com/jarasmar/acebook-theUndefinedMethod"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
 MakersBnB | Clone of AirBnb | Ruby, Sinatra, Postgres, CSS | Rspec, Capybara | <a href="https://github.com/jarasmar/MakersBnB"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
-Thermostat | Allows to  manipulate indoor the temperature, saving the status, and offers outdoor temperature information from a weather API | JavaScript, JQuery, Sinatra, Postgres, CSS | Rspec | <a href="https://github.com/jarasmar/Thermostat"><img alt="github" src="./images/Github_Logo.png" height="42" width="42"> </a>
+
+
+### Currently working on:
+- [**Second Life**](https://github.com/jarasmar/Second_Life): App with a quick map view to give (and get) stuff for free in your area (Ruby on Rails, Google Maps API and Bootstrap)
+- [**To Do List**](https://github.com/jarasmar/To-Do-List): Building a small task management app (React.js)
 
 ***
 
