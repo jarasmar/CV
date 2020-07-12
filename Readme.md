@@ -13,14 +13,14 @@
 </p>
 
 <div align="center">
-
-[ PROJECTS ](#projects) |
-[ SKILLS ](#skills) |
-[ EDUCATION ](#education) |
-[ EXPERIENCE ](#experience) |
-[ VOLUNTEER WORK ](#volunteer-work) |
-[ INTERESTS ](#interests)
-
+    
+  [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
+  [![skills](https://img.shields.io/badge/-Skills-blue?style=for-the-badge)](#skills)
+  [![education](https://img.shields.io/badge/-Education-blue?style=for-the-badge)](#education)
+  [![experience](https://img.shields.io/badge/-Experience-blue?style=for-the-badge)](#experience)
+  [![volunteer-work](https://img.shields.io/badge/-Volunteering-blue?style=for-the-badge)](#volunteer-work)
+  [![interests](https://img.shields.io/badge/-Interests-blue?style=for-the-badge)](#interests)
+  
 </div>
 
 ***
@@ -283,3 +283,5 @@ _Click on any of them to see some further details, anecdotes and adventures._
   <br>
   <p>Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.</p>
 </details>
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
