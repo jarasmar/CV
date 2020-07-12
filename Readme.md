@@ -17,6 +17,18 @@
   
 </div>
 
+***
+
+I am a **Full-Stack Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
+
+I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continuous learning process it involves.  
+
+Recently graduated from **Makers Academy**, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
+
+Curious about how I decided to change career? [Brief Tale of a Life Change](https://github.com/jarasmar/Learning_Journey_At_Makers/blob/master/README.md)
+
+***
+
 <div align="center">
     
   [![projects](https://img.shields.io/badge/-Projects-blue?style=for-the-badge)](#projects)
@@ -27,16 +39,6 @@
   [![interests](https://img.shields.io/badge/-Interests-blue?style=for-the-badge)](#interests)
   
 </div>
-
-***
-
-I am a **Full-Stack Junior Developer** and life-long learner. I fluently speak three languages, worked on Makeup and Special Effects for Cinema and TV and have a degree in Visual Arts.
-
-I walked into programming in the most unexpected way and I couldn't be more grateful for it. I really enjoy the constant challenges and continuous learning process it involves.  
-
-Recently graduated from **Makers Academy**, I would love to find a job in an environment that supports my learning. I am currently based in London, willing to stay, but also open to new horizons. 
-
-Curious about how I decided to change career? [Brief Tale of a Life Change](https://github.com/jarasmar/Learning_Journey_At_Makers/blob/master/README.md)
 
 ***
 
