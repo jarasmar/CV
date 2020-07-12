@@ -4,13 +4,14 @@
 
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/jarasmar/">
-    <img src="./images/Linkedin_Logo.png" alt="linkedin" hspace="30" height="42" width="42"></a>
+<div align="center">
+  [![LinkedIn Profile]](https://www.linkedin.com/in/jarasmar)
+  [![Email]](mailto:jarasmar@gmail.com)
+  [![CodeWars Profile]](https://www.codewars.com/users/Jarasmar)
+  [![Website]](https://jarasmar.wordpress.com/)
+</div>
+ 
   <img src="https://camo.githubusercontent.com/e05533c5c1439f745a4c9a7f11edf976a07ff303/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265616479253230666f722d686972652d627269676874677265656e2e737667" alt="BADGE" hspace="30">
-  <a href="https://jarasmar.wordpress.com/">
-    <img src="./images/Wordpress_Logo.png" alt="wordpress" hspace="30" height="42" width="42"></a>
-</p>
 
 <div align="center">
     
@@ -284,4 +285,9 @@ _Click on any of them to see some further details, anecdotes and adventures._
   <p>Clothes, furniture, a branch from a tree... Just give me a flea market, a sewing machine, few tools and some paint and I am set to play for hours.</p>
 </details>
 
+<!-- Badge Links -->
+
 [linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[Website]: https://img.shields.io/badge/Website-%2341403e?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAjRQTFRF////////////////////////////////////////////////////////////////////////3t7e39/f////39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f////////////////////////////////////////////////////////////39/f39/f39/f39/f39/f39/f////////////////////////39/f39/f39/f////////////////39/f////////////////39/f////////////////////////////////////3t7e39/f39/f39/f39/f39/f////////////////////39/f////////////////39/f////////////////////////////////////////////39/f4eHh39/f39/f39/f39/f39/f39/f39/f4ODg39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f4ODg4ODg39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/f39/f39/f39/f39/f39/f////39/f39/f39/f39/f39/f39/f3t7e39/f////////////39/f39/f39/f39/f39/f39/f3t7e39/f39/f39/fezR8oAAAALx0Uk5TAAMOGCQ7FJTj7/r9TJX/eFs+BiIqHJWfB1zn/6KU+rsBBAYFDTRkk6y6wr2jYh4FSEzPvi9w2/n+6nsS840/9fx5cm7o9k9U8OKcZUU5Q4LAC5Oa5OUls1D08yu8VQKpab1ZXZsytBrnvBblwbkBrcqKt3Wc4wIm/v21D4D5JGMjA7ZQpQcDFaMIHO/i4fysf4Wn2PdLJvbrDgIT0wLF8J4uAYj7ZCkfq/h+MQQShwkIBxlScXhiOwFtaiFx4MP+AAAB60lEQVR4nGNgGAWjgBqAkYmZhZWNAgPYOTi5uHkoMICXDwgoMYCfUgMEKDVAkAgDhITxSIoQNkBUTJwSAyQkpaRlKDFAVk6aMgPkpYeSAQqKSsoK5BqgoqqmrqGppa2jqweR0DcwBAMjoAHGhghggt0AUzNzPgiwsLRSAklY20hjBbZYDbCz50MAB0dGPAY4YTPA2YUPGbi64THAHZsBHkDs6eXt4+vnD3ZKgDIDQ2BQMBiEADWFBiNAGDYD+LjC3VQgERERCeRGRaPGQgyhWHCJZYTx4+JBAgmoBiQSMiAJSSDZASiQQqIByCkxFRQgaRQYkJ4BFMiMI9+ArGygQA48TEYNGDWAOgbk4jIgL484A/KBBhRgahctjCkqtibGgBKgAaVl6PrLjSqkpSurqokwoAZoQG0dlFNd3wCmG5sg5VsQEQY0A62SbmllYGhrNwgOle7oBAl2dUMM6JEgbIBoL1BhX/+EiZMmA6tZ6SlTQYLTpkMMmDGTsAGzalAKZRtwsT47FMKbM5ewAQyz5yG0z1+wcBZIbNFiMHfJUgaGZRZAgGoAUCAAyQCG5SuWgJWvLFi1eg1UbO2kSqDAOn1gKbweCJCVK2wACmxkQAaLNm3esnXb9tlzkcR2mOzctXsRwygYBaOAWgAACP+nhyRIFoYAAAAASUVORK5CYII=
