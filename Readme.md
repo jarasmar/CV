@@ -53,6 +53,7 @@ Project | Description | Links | Tech Stack | Testing
 **[Mix Tape](https://github.com/jarasmar/mix-tape)** | First time using React calling Rails for the backend and Spotify API. Combines selected users top tracks to generate a playlist that you can listen from the browser | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://mix-tape-makers.herokuapp.com/signin)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/mix-tape) | Rails, React, Postgres, CSS | Rspec, Capybara 
 **[Acebook](https://github.com/jarasmar/acebook-theUndefinedMethod)** | First time using Rails, building a clone of Facebook | [![heroku](https://img.shields.io/badge/-DEMO-8000ff?style=for-the-badge)](https://the-undefined-method.herokuapp.com/users/sign_in)[![code](https://img.shields.io/badge/-Code-2eb82e?style=for-the-badge)](https://github.com/jarasmar/acebook-theUndefinedMethod) | Rails, Postgres, Devise, Bootstrap | Rspec, Capybara
 
+
 ### Currently working on:
 - [**Second Life**](https://github.com/jarasmar/Second_Life): App with a quick map view to give (and get) stuff for free in your area (Ruby on Rails, Google Maps API and Bootstrap)
 - [**To Do List**](https://github.com/jarasmar/To-Do-List): Building a small task management app (React.js)
